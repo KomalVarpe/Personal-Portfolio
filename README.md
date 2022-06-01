@@ -38,6 +38,17 @@
 - Locate your storage account and display the account overview.
 - Select Static website to display the configuration page for static websites.
 - Select Enabled to enable static website hosting for the storage account.
+- Map a custom domain 
+
+## Steps to Map a custom domain ## 
+
+ ✔️ Step 1: Get the host name of your storage endpoint.
+
+✔️ Step 2: Create a canonical name (CNAME) record with your domain provider.
+
+✔️ Step 3: Register the custom domain with Azure.
+
+✔️ Step 4: Test your custom domain.
 
 ## Features 📋
 ## Sections 📚
