@@ -3,7 +3,7 @@
 
 **Website Preview**
 **View My Portfolio Website Here** ----- >
-💡 https://staticwebsite1.z10.web.core.windows.net/ 💡
+💡 https://lively-forest-0ae002203.1.azurestaticapps.net 💡
 
 
 **Home Page**
