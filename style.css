@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://github.com/KomalVarpe/Personal-Portfolio/blob/fe704ac6f278b9c30723a79444eed19eb5bc2d8d/images/background.jpg") no-repeat center;
+    background: url("https://github.com/KomalVarpe/Personal-Portfolio/blob/main/images/background.jpg") no-repeat center;
     height: 100vh;
     color:black;
     min-height: 500px;
