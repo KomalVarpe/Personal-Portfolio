@@ -8,7 +8,8 @@
 
 **Home Page**
 
-![Screenshot (9)](https://user-images.githubusercontent.com/96653846/217203621-e7ff2421-5418-4b93-8dbd-8e3eb52a8273.png)
+![Screenshot (14)](https://user-images.githubusercontent.com/96653846/217205015-738134b5-526e-4d2a-bd42-71d27ca46e1d.png)
+
 
 
 
@@ -16,25 +17,25 @@
 
 **About Page**
 
+![Screenshot (15)](https://user-images.githubusercontent.com/96653846/217205069-65aa5888-4226-4a33-b2ad-3de87c8bf64b.png)
 
-![Screenshot (10)](https://user-images.githubusercontent.com/96653846/217203632-14a6c076-99d0-4833-b797-617872d9d408.png)
 
 
 ** Experiance Page**
+![Screenshot (16)](https://user-images.githubusercontent.com/96653846/217205135-f31d05d6-1b11-49ab-820a-10c194ee90ab.png)
 
-![Screenshot (11)](https://user-images.githubusercontent.com/96653846/217203644-1f740194-50ed-4fa6-bd98-c12b128d5841.png)
 
 
 **Skills Page**
-
-![Screenshot (12)](https://user-images.githubusercontent.com/96653846/217203658-b791491e-dc76-47a0-895a-fb974c251a9a.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/96653846/217205172-83187395-2c62-4e41-8b4c-4708398378b8.png)
 
 
 **Contact Page**
-![Screenshot (13)](https://user-images.githubusercontent.com/96653846/217204116-063a7dc6-f50f-42b5-ac3a-c5afee47a871.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/96653846/217205271-e65413fa-f3bb-411a-8892-206297259742.png)
 
 
-![Screenshot (57)](https://user-images.githubusercontent.com/96653846/171343431-15dd57e6-9c30-49fb-b470-c4a37646f933.png)
+
+
 
 :star: Star me on GitHub 
 
