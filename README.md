@@ -8,22 +8,30 @@
 
 **Home Page**
 
-![Screenshot (52)](https://user-images.githubusercontent.com/96653846/171343362-417e1c97-2858-4d84-898a-f6baf464acd0.png)
+![Screenshot (9)](https://user-images.githubusercontent.com/96653846/217203621-e7ff2421-5418-4b93-8dbd-8e3eb52a8273.png)
+
+
+
 
 
 **About Page**
 
 
-![Screenshot (53)](https://user-images.githubusercontent.com/96653846/171343388-fd01892d-c2f9-42dc-91d5-71ce571c5575.png)
+![Screenshot (10)](https://user-images.githubusercontent.com/96653846/217203632-14a6c076-99d0-4833-b797-617872d9d408.png)
 
 
-**Skills & Experiance Page**
+** Experiance Page**
+
+![Screenshot (11)](https://user-images.githubusercontent.com/96653846/217203644-1f740194-50ed-4fa6-bd98-c12b128d5841.png)
 
 
-![Screenshot (56)](https://user-images.githubusercontent.com/96653846/171343417-2667da34-3a7a-4ca9-a987-dd2e64ef3b06.png)
+**Skills Page**
+
+![Screenshot (12)](https://user-images.githubusercontent.com/96653846/217203658-b791491e-dc76-47a0-895a-fb974c251a9a.png)
 
 
 **Contact Page**
+![Screenshot (13)](https://user-images.githubusercontent.com/96653846/217204116-063a7dc6-f50f-42b5-ac3a-c5afee47a871.png)
 
 
 ![Screenshot (57)](https://user-images.githubusercontent.com/96653846/171343431-15dd57e6-9c30-49fb-b470-c4a37646f933.png)
